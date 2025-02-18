@@ -45,5 +45,9 @@ double listeninOrtalamasiniHesapla(List<int> sayilar2) {
   }
   ort = tplam / sayilar2.length;
   return ort;
+
+
+   
 }
- //937
+ 
+
