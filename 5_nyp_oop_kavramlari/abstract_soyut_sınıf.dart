@@ -8,7 +8,7 @@ void main(List<String> args) {
 void testDb(veriTabani veriTabani) {
   veriTabani.veriTabaniKontrol();
 }
-
+ //abstract metotu sıyut yapar ve herhangi bir değer girmemize gerek yok 
 abstract class veriTabani {
   void userSave();
   void userDelete();
