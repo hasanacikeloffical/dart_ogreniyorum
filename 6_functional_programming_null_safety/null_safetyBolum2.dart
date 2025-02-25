@@ -36,9 +36,6 @@ void main(List<String> args) {
 
   List<String?> liste = [null, null, "hasan"];
   print(liste.first?.length ?? 2);
-  
-
-
 }
 
 class Ogrenci {
